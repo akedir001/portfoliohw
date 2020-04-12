@@ -1,0 +1,67 @@
+
+/* universale(all three pages) */
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* aboutMEcss */
+.aboutMeMain{
+    border: 2px solid wheat;
+    width: 75%;
+    margin: auto;
+}
+
+h1{
+    
+    text-decoration: underline solid wheat;
+    text-align: center;
+}
+
+/* portfolio */
+.BioPic{
+    width: 80%;
+    margin: auto;
+    border: 2px solid wheat;
+    text-align: center;
+
+}
+.bikepic{
+    height: 500px;
+    
+}
+
+.Bio{
+    border: 1px solid wheat;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+
+
+/* contactMe */
+
+.contactForm{
+    width: 80%;
+    border: .3px solid wheat;
+    margin: auto;
+    border-radius: 10px;
+
+}
+.button{
+    text-align: center;
+    
+}
+/* footer */
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: wheat;
+    text-align: center;
+}
