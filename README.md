@@ -1,1 +1,2 @@
 # portfoliohw
+brief discription about my websight,  i used div classes to help me organize my layout for the three main html files, i then linked them all to one css file, to help organize everything under one roof. between html and css i couldnt find something to make the pages pop more, so i i figured i cant go wrong with the classic white and black, with a hint of weat in the mix ;), A simple life is the way to goo!!, also im not sure what exactly goes into this read-me section.
